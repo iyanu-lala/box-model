@@ -1,0 +1,18 @@
+.para 
+{
+    border-width: 2px;
+    border-style: solid;
+    border-color: aqua;
+    border: 2px solid aqua;
+    padding: 100px 50px;
+    margin: 60px 100px 150px 100px;
+    font-family: monospace;
+}
+.testing {
+    border-width: 2px;
+    border-style: solid;
+    border-color: chartreuse;
+    padding: 100px 100px;
+    margin: 50px 50px 50px 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
